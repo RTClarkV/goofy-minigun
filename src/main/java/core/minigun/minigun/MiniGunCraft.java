@@ -22,6 +22,7 @@ public class MiniGunCraft implements Listener {
     private MiniGun plugin;
     private NamespacedKey bullet;
 
+
     BukkitScheduler scheduler;
 
     public MiniGunCraft(MiniGun plugin){
