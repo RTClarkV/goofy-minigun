@@ -1,0 +1,4 @@
+name: MiniGun
+version: '${project.version}'
+main: core.minigun.minigun.MiniGun
+api-version: 1.20
